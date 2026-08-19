@@ -25,7 +25,8 @@ gitops-demo-app/
 │   └── ...
 └── .helmignore
 
-How it is used
+```
+## How it is used
 
 ArgoCD watches this repository
 Any change pushed to the main branch is automatically synced
@@ -35,7 +36,8 @@ Google Kubernetes Engine (GKE)
 
 
 
-Deployed by
+## Deployed by
+
 Project: Multi-Cluster GitOps with ArgoCD
 Author: Sumer Pathan
 text
